@@ -38,3 +38,8 @@ After installing all these softwares in your local machine/PC
 # Contributing:
 Working on open source projects have lots of learning and fun. If anyone wants to contribute on this project or wants to add any exciting features or convert it into a android application are most welcome!!
 
+#Team Members
+1. Nishanth KR
+2. Nidhish Guhan
+3. Nirandjan
+4. Lakshith B R
